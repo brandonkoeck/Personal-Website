@@ -1,0 +1,35 @@
+/* CSS Document */
+
+.table {
+	
+border: 0;
+bgcolor: #F2F2F2;
+width: 100%;
+	
+}
+
+.button {
+		text-decoration: none;
+		font: bold 12px;
+		color: #FFFFFF;
+		background-color: #4472C4;
+		padding: 5px;
+		/* margin: 5px; */
+		text-align: center;
+		display: block;
+		margin: 0 auto;
+}
+
+.h1 {
+	text-align: center;
+	background-color: #00FB92;
+}
+
+.h2 {
+	text-align: center;
+	background-color: #DAE9F8;
+}
+
+.container {
+	padding-top: 75px;
+}
