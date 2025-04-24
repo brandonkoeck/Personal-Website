@@ -4,12 +4,12 @@
 Welcome to my **personal website**!
 
 ### Project Description
-I developed this website as a full-stack project for my Web Tech class. It was hosted on the AWS EC2 instance and connected to a MySQL database using PHPMyAdmin. It features many pages with info about me, including a working contact and registration page. This project helped me learned how the frontend and backend of websites work, and taught me how to work with databases and RESTful APIs.
+I developed this website as a full-stack project for my Web Tech class. It was hosted on the AWS EC2 instance and connected to a MySQL database using PHPMyAdmin. It features many pages about me, including a working contact and registration page. This project helped me learn how the front and backend of websites work and how to work with databases and RESTful APIs.
 
 ### Project Features
 - Homepage featuring links to different pages about me
-- A working contact page linked to a MySDL database
-- A working login/registration page linked to a MySDL database
+- A working contact page linked to a MySQL database
+- A working login/registration page linked to a MySQL database
 - Password hashing for each password
 
 ### Languages
